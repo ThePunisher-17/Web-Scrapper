@@ -1,0 +1,20 @@
+Title: BP extends use of AI in five-year deal with spy tech firm Palantir
+
+
+
+
+Oil and gas company to use artificial intelligence to speed up decision-making by engineers
+The oil and gas supermajor BP is to use artificial intelligence to speed up the decision-making of its engineers, after signing a five-year deal with the US spy technology company Palantir.
+The British company plans to use large language models to automatically analyse data from its sites and produce advice to help humans come to conclusions.
+The new deal builds on a decade-long partnership during which Palantir’s tech has been used to create a “digital twin” of BP’s oil and gas operations, including in the Khazzan gasfields in Oman and on offshore oil platforms in the North Sea and the Gulf of Mexico, the site of the 2010 Deepwater Horizon disaster at a BP well.
+The companies said the existing partnership had helped improve performance, and that the new software was designed for “safe and reliable AI deployment” and to “guard against hallucinations”. That is a reference to how generative AI models have in the past presented untrue or invented claims as fact as a result of issues with the data it is trained on or how it combines that information – a phenomenon termed hallucination.
+The use of generative AI is becoming increasingly common across every industry, from adapting the language used to address shoppers at Marks & Spencer to helping researchers and writers. Debate continues to rage over whether AI will replace or improve existing jobs.
+Sunjay Pandey, the senior vice-president for digital delivery at BP, said: “The use of advanced digital twin simulations helps us to safely monitor and optimise various aspects of the production process to enhance operational performance. We look forward to building on the progress we have made over the years.”
+Matthew Babin at Palantir said its tech “offers the opportunity to help accelerate human decision-making on top of the robust digital twin and deep operational workflows already in place”.
+The tech company won a five-year contract last year to create a huge data platform for the NHS – a move that sparked privacy concerns over patients’ medical details.
+Peter Thiel, Palantir’s billionaire founder and chair, backed Donald Trump at the 2016 presidential election, and the company is known for working closely with intelligence agencies and military organisations including the CIA and UK’s Ministry of Defence.
+Sign up to Business Today
+Get set for the working day – we'll point you to all the business news and analysis you need every morning
+after newsletter promotion
+BP is beefing up its technology under the chief executive, Murray Auchincloss, who took the job after the shock departure of Bernard Looney last year. The £66bn company struck a deal last month with the US space agency Nasa to share their technology and expertise gained from working “in hostile environments”.
+In 2019, the company invested $5m (£3.8m) in Belmont Technology to accelerate its AI platform, nicknamed Sandy.
